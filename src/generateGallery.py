@@ -45,7 +45,7 @@ for folder in gallery_folders:
 
     for image in image_files:
 
-        image_path = f"/images/{gallery_name}/{image.name}"
+        image_path = f"../images/{gallery_name}/{image.name}"
 
         lines.append(f'![{image.stem}]({image_path})')
 #        if date:
