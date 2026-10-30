@@ -1,0 +1,9 @@
+Service manuals:
+- https://www.zimmers.net/anonftp/pub/cbm/schematics/computers/pet/2001N/index.html
+- https://www.commodore.ca/manuals/funet/cbm/schematics/ALLFILES.html
+- https://www.zimmers.net/anonftp/pub/cbm/schematics/computers/pet/2001/index.html
+
+Assembly no: 320351
+
+Other potentially useful sites:
+ - http://cbmsteve.ca/petlabels/
