@@ -37,13 +37,16 @@ My friend's dad gave him the PET circa 2006 having bought it for him at the
 surplus store. It was turned on once, found working, and then stored in the
 loft for 20 years.
 
-At some point prior to 2006 it arrived in the hands of a surplus store.
-
-TODO: Which store?
+At some point prior to 2006 it arrived in the hands of 
+[Hills Office Furniture](https://hillsofficefurniture.com/), a surplus office
+supplies store at Unit 16, Luddite Way Business Park, Bradford Road,
+Cleckheaton, BD19 5DQ.
 
 There is no knowledge of the PET's history prior to the store and no markings
 on the machine provide any evidence of its previous life unless something is
-found on the [tape](./tapeAnalysis.md).
+found on the [tape](./tapeAnalysis.md). One can only guess that it was used by a
+small business in Yorkshire, England, prior to passing to Hills Office
+Furniture store.
 
 Based on the date codes on the main board ICs, the PET appears to have been
 built in spring 1980.
