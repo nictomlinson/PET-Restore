@@ -1,5 +1,34 @@
 # Commodore PET Restoration Progress
 
+# 2026/10/31
+
+I thought I would jot down some thoughts about how I might go about getting the
+PET working. To start, I don't know that it does not work. I could just plug
+it in and hope for the best. However, I am not that brave. So I think this is
+roughly what I will do:
+
+- disassemble the whole machine as best I can
+- dump the ROM chips to check they read correctly
+- clean everything
+- visually inspect of the board, check diode drops and power rail shorts
+- reform the main filter cap or replace it if it won't
+- put enough back together to test it but with all the socketed chips removed
+- plug it in while monitoring the power rail voltages
+- if the power rails all look good, reseat all the chips, remembering to dexoit
+the sockets, and see if she works
+- and if she does, put it all back together and marvel at glorious 1980s tech
+
+If all goes well and I have a working PET then I need to decide whether to
+upgrade it at all or leave it stock. I am tending toward stock at the moment
+given how fresh from the factory it currently looks. If I was to upgrade
+it in anyway, then I think I would limit it to non-invasive changes that can
+be invisibly reversed.
+
+I also need to decide what to do with the damaged front
+[label](./images/20261029_First_Look/firstLook001.JPG). Should I replace it with
+a perfect looking replica, assuming I can get one, or leave the damage as part
+of its history. Again, I am tending toward leaving as is.
+
 # 2026/10/29
 
 Up early before the builders arrived since we are currently having building work
