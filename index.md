@@ -1,5 +1,16 @@
 # Commodore PET Restoration Progress
 
+# 2026/11/02
+
+I received a reply from the maintainer of
+[PET Labels](http://cbmsteve.ca/petlabels/), Steve Gray yesterday regarding
+the photo I sent him of the label on the PET. He said it looks like a new
+variation for his website. It is similar to number 11 (as at 2026/11/02) but
+with CBM instead of PET. He said he hasn't come across a new label in quite a
+while.
+
+Well, that is something noteworthy about this PET.
+
 # 2026/10/31
 
 I thought I would jot down some thoughts about how I might go about getting the

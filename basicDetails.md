@@ -22,9 +22,14 @@ Main ICs with date codes:
 - 901447-10 - 0680
 
 The front Label style is CBM 2001 Series professional computer. Of all
-the labels shown at [pet lables](http://cbmsteve.ca/petlabels/), style 12 (as
-at 2026/10/30) is the best match although the label on this PET appears to have
-a slightly thinner border below 2001 Series.
+the labels shown at [PET Labels](http://cbmsteve.ca/petlabels/), style 12 (as
+at 2026/10/30) is the best visual match although that is a bezel style and the
+label on this PET appears to have a slightly thinner border below 2001 Series.
+Steve Gray, the maintainer of PET Labels, suggested it is like style 11 but
+with CBM instead of PET. He confirmed it is a new variant which he will add to
+the site.
+
+TODO: update this once the label is added to PET Labels.
 
 The main board assembly number is almost certainly 320351 although the 5 is
 hard to read and could be a 6 or 0.
